@@ -1,11 +1,8 @@
 ## ! sorry if it looks wonky im new to this
-<img width="1280" height="245" alt="1000001902" src="https://github.com/user-attachments/assets/b4ab72a7-08d2-4d43-9f85-dd8ccd2b290d" />
-<img width="1778" height="1219" alt="1000001898" src="https://github.com/user-attachments/assets/d753d12e-a5c9-4930-ad0f-c442c853ced0" />
-<img width="1280" height="245" alt="1000001903" src="https://github.com/user-attachments/assets/c465ecf6-63f7-4b82-ac60-84a1574b4ad7" />
-<img width="735" height="724" alt="1000001905" src="https://github.com/user-attachments/assets/409b8b36-cdd2-466f-a8ac-d9d80569050f" />
-<img width="1280" height="251" alt="1000001930" src="https://github.com/user-attachments/assets/acfada21-ac40-4ca0-8412-de5a4a948e20" />
-<img width="1401" height="1171" alt="1000001926" src="https://github.com/user-attachments/assets/01441776-d57e-47f9-860b-34f0f5c7ccc8" />
-<img width="1280" height="251" alt="1000001929" src="https://github.com/user-attachments/assets/79a0d78a-8a1b-4d97-9881-e6510e790724" />
+<img width="1280" height="268" alt="1000001985" src="https://github.com/user-attachments/assets/d0fca634-f78f-43ff-8dc2-4caf98555399" />
+
+<img width="2243" height="1968" alt="1000001984" src="https://github.com/user-attachments/assets/994fdc75-f002-4286-a118-b5988bc58c6a" />
+<img width="1280" height="268" alt="1000001985" src="https://github.com/user-attachments/assets/ea55b22c-5c68-445c-9392-4e1ecc2628ea" />
 banners from kurograd on pinterest !
 <!--
 **spokitties/spokitties** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
